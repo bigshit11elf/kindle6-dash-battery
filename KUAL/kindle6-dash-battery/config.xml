@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+  <information>
+    <name>Kindle6 Dash Battery (PW2)</name>
+    <id>kindle6-dash-battery</id>
+  </information>
+  <menus><menu type="json" dynamic="true">menu.json</menu></menus>
+</extension>

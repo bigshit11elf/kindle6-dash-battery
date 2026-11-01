@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "name": "Start PW2 Dashboard",
+      "action": "/mnt/us/dashboard/start.sh"
+    },
+    {
+      "name": "Stop PW2 Dashboard",
+      "action": "/mnt/us/dashboard/stop.sh"
+    }
+  ]
+}
